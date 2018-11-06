@@ -1,0 +1,41 @@
+body {
+    background-image: url("hang.jpeg");
+    background-color: #cccccc;
+    background-image: linear-gradient(blue, aqua, teal);
+}
+.container {
+    background-color: aqua;
+    margin: auto;
+    width: auto;
+    border: 4px solid teal;
+    padding: 20px;
+    height: 680px;
+}
+#header {
+    background-color: black;
+    color: chartreuse;
+    font-size: 5rem;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    border: 3px ridge teal;
+}
+#box {
+    display: block;
+    margin: auto;
+    background-color: cadetblue;
+    color: white;
+    border: 3px ridge black;
+}
+footer {
+    width: auto;
+    background-image: linear-gradient(blue, aqua, teal);
+    text-align: center;
+    border: 3px solid teal
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
